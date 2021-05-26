@@ -1,4 +1,5 @@
-@extends('front.layout.main')
+
+
 @section('content')
 
 <!-- ======= Footer ======= -->

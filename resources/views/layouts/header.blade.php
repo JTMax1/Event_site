@@ -1,7 +1,6 @@
- @extends('front.layout.main')
-
- @section('content')
-  <!-- ======= Header ======= -->
+@section('content')
+ 
+      <!-- ======= Header ======= -->
   <header id="header" class="d-flex align-items-center ">
     <div class="container-fluid container-xxl d-flex align-items-center">
 
@@ -46,6 +45,5 @@
 
     </div>
   </header><!-- End Header -->
-     
  @endsection
  
