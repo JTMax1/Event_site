@@ -15,6 +15,9 @@
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
+   <!-- Scripts -->
+    <script src="{{ asset('js/app.js') }}" defer></script>
+
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
 
@@ -37,6 +40,7 @@
 </head>
 <body>
 <!--include header -->
+      
 @include('layouts.header') 
 
 @yield('content')
