@@ -1,7 +1,4 @@
 
-
-@section('content')
-
 <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
@@ -75,4 +72,3 @@
     </div>
   </footer><!-- End  Footer -->
     
-@endsection

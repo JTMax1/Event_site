@@ -1,8 +1,8 @@
 @extends('layouts.app')
+<!---->
+
 
 @section('content')
-@include('layouts.header')
-
 
  <!-- ======= Hero Section ======= -->
   <section id="hero">
@@ -931,5 +931,6 @@
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
-    @include('layouts.footer')
+
+
 @endsection

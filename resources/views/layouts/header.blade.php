@@ -1,4 +1,4 @@
-@section('content')
+
  
       <!-- ======= Header ======= -->
   <header id="header" class="d-flex align-items-center ">
@@ -45,5 +45,5 @@
 
     </div>
   </header><!-- End Header -->
- @endsection
+
  
