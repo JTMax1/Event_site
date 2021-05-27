@@ -39,7 +39,7 @@
           </ul>
         </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <ul class="navbar-nav ml-auto">
+                    
                         <!-- Authentication Links -->
                         @guest
                             <li class="nav-item">
@@ -69,7 +69,7 @@
                                 </div>
                             </li>
                         @endguest
-                    </ul>
+          
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
